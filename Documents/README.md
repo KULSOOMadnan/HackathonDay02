@@ -1,12 +1,23 @@
-<h1>🛋️ Furniro - Hackathon Documentation</h1>
-</br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Furniro - Hackathon Documentation</title>
+</head>
+<body>
+  <h1>🛋️ Furniro - Hackathon Documentation</h1>
 
- <b><h2>📖 Project Overview</h2></b> 
-  <p>Welcome to the documentation of <strong>"Furniro"</strong>, a versatile <em>sofa-centric e-commerce platform</em> developed during a 7-day hackathon! This project focuses on providing users with a seamless shopping experience for sofas and furniture products. Utilizing modern technologies like <strong>Next.js</strong>, <strong>Sanity CMS</strong>, and <strong>Vercel</strong>, the platform offers dynamic features and an intuitive user interface.</p>
+  <h2>📖 Project Overview</h2>
+  <p>
+    Welcome to the documentation of <strong>Furniro</strong>, a versatile 
+    <em>sofa-centric e-commerce platform</em> developed during a 7-day hackathon! 
+    This project focuses on providing users with a seamless shopping experience for sofas and furniture products. 
+    Utilizing modern technologies like <strong>Next.js</strong>, <strong>Sanity CMS</strong>, and <strong>Vercel</strong>, 
+    the platform offers dynamic features and an intuitive user interface.
+  </p>
 
-  
-
- <b><h2>📅 Day-Wise Summary</h2></br> 
+  <h2>📅 Day-Wise Summary</h2>
 
   <h3>Day 01: 🎯 Goal Setting and Planning</h3>
   <p>The first day set the foundation for the project by defining clear objectives and strategies.</p>
@@ -16,9 +27,6 @@
     <li>Established a development timeline and assigned tasks.</li>
   </ul>
   <p><strong>Outcome:</strong> A well-defined roadmap ensuring structured development.</p>
-  </br>
-</br>
-
 
   <h3>Day 02: 🗄️ Schema Development and Data Migration</h3>
   <p>On Day 2, the backend architecture was designed, focusing on robust data management.</p>
@@ -29,10 +37,6 @@
   </ul>
   <p><strong>Outcome:</strong> A reliable backend setup with clean and organized data.</p>
 
-  </br>
-</br>
-
-
   <h3>Day 03: 🔗 API Integration</h3>
   <p>The focus shifted to connecting the frontend with the backend through APIs.</p>
   <ul>
@@ -41,10 +45,6 @@
     <li>Conducted tests to ensure API endpoints worked seamlessly.</li>
   </ul>
   <p><strong>Outcome:</strong> Smooth data retrieval and interaction between the frontend and backend.</p>
-
-  </br>
-</br>
-
 
   <h3>Day 04: 🖼️ Dynamic Components Development</h3>
   <p>This day brought the frontend to life with interactive components.</p>
@@ -61,10 +61,6 @@
   </ul>
   <p><strong>Outcome:</strong> A visually appealing and interactive user interface for <strong>Furniro</strong>.</p>
 
-  </br>
-</br>
-
-
   <h3>Day 05: 🛠️ Testing and Bug Fixing</h3>
   <p>Day 5 emphasized quality assurance and optimization.</p>
   <ul>
@@ -73,10 +69,6 @@
     <li>Improved performance metrics, accessibility, and SEO.</li>
   </ul>
   <p><strong>Outcome:</strong> A bug-free, high-performance application ready for deployment.</p>
-
-  </br>
-</br>
-
 
   <h3>Day 06: 🚀 Deployment and Staging</h3>
   <p>The final day focused on deploying <strong>Furniro</strong> to a live environment.</p>
@@ -87,57 +79,63 @@
   </ul>
   <p><strong>Outcome:</strong> A live, customer-ready platform accessible globally.</p>
 
-  </br>
-</br>
-
-
   <h2>🙏 Acknowledgment</h2>
-  <p class="acknowledgment">I extend my heartfelt thanks to <strong>Ameen Alam</strong>, whose guidance and support made this hackathon a memorable learning experience. His mentorship, insightful feedback, and encouragement were instrumental in successfully completing <strong>Furniro</strong>.</p>
-
-  </br>
-</br>
-
+  <p>
+    I extend my heartfelt thanks to <strong>Ameen Alam</strong>, whose guidance and support made this hackathon a memorable learning experience. 
+    His mentorship, insightful feedback, and encouragement were instrumental in successfully completing <strong>Furniro</strong>.
+  </p>
 
   <h2>📂 GitHub Repository</h2>
-  <p>Explore the complete project :  
+  <p>
+    Explore the complete project:  
     <a href="https://github.com/KULSOOMadnan/UI-UX-hachaton" target="_blank">Marketplace Project Repository</a>
   </p>
-  </br>
-</br>
-
 
   <h2>🌐 Deployment Link</h2>
-  <p>Experience <strong>Furniro</strong> live at:  
+  <p>
+    Experience <strong>Furniro</strong> live at:  
     <a href="https://ui-ux-hachaton.vercel.app/" target="_blank">Furniro Staging Environment</a>
   </p>
 
-  </br>
-</br>
+  <h2>Project Structure</h2>
+  <p>This project is organized into separate folders for each day's work. Each folder contains a PDF file that documents the progress for that specific day.</p>
 
+  <h3>Documents</h3>
+  <ul>
+    <li>📁 <strong>HackathonDay01</strong>: <a href="#">Day_01_Goal_Setting.pdf</a> 📄</li>
+    <li>📁 <strong>HackathonDay02</strong>: <a href="#">Day_02_Schema_Development.pdf</a> 📄</li>
+    <li>📁 <strong>HackathonDay03</strong>: <a href="#">Day_03_API_Integration.pdf</a> 📄</li>
+    <li>📁 <strong>HackathonDay04</strong>: <a href="#">Day_04_Dynamic_Components.pdf</a> 📄</li>
+    <li>📁 <strong>HackathonDay05</strong>: <a href="#">Day_05_Testing_Bug_Fixing.pdf</a> 📄</li>
+    <li>📁 <strong>HackathonDay06</strong>: <a href="#">Day_06_Deployment_Staging.pdf</a> 📄</li>
+  </ul>
+
+  <h3>Other Files</h3>
+  <ul>
+    <li>📊 <strong>testing-Report</strong></li>
+    <li>📈 <strong>performance.png</strong></li>
+  </ul>
+
+  <h3>README.md 📑</h3>
 
   <h2>📁 Folder Structure</h2>
-  <div class="folder-structure">
-    <pre>
-furniro-documents/
-  |- documents/
+  <pre>
+<!-- MarketPlace_Hacathon/
+  |- Documents/
       |- day_01_goal_setting.md
       |- day_02_schema_development.md
       |- day_03_api_integration.md
       |- day_04_dynamic_components.md
       |- day_05_testing_bug_fixing.md
       |- day_06_deployment_staging.md
-  |- test_cases/
-      |- test_cases_report.csv
-  |- performance/
-      |- performance_results_gtmetrix.pdf
-  |- README.md
-    </pre>
-  </div>
-
-  </br>
-</br>
-
+  |- testing-Report
+     
+  |- performance.png
+     
+  |- README.md -->
+  </pre>
 
   <p><strong>Prepared by:</strong> Kulsoom</p>
   <p><strong>Hackathon Completion Date:</strong> 22 January 2025</p>
-
+</body>
+</html>
