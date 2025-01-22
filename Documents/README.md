@@ -1,4 +1,5 @@
 <h1>🛋️ Furniro - Hackathon Documentation</h1>
+</br>
 
  <b><h2>📖 Project Overview</h2></b> 
   <p>Welcome to the documentation of <strong>"Furniro"</strong>, a versatile <em>sofa-centric e-commerce platform</em> developed during a 7-day hackathon! This project focuses on providing users with a seamless shopping experience for sofas and furniture products. Utilizing modern technologies like <strong>Next.js</strong>, <strong>Sanity CMS</strong>, and <strong>Vercel</strong>, the platform offers dynamic features and an intuitive user interface.</p>
@@ -15,6 +16,9 @@
     <li>Established a development timeline and assigned tasks.</li>
   </ul>
   <p><strong>Outcome:</strong> A well-defined roadmap ensuring structured development.</p>
+  </br>
+</br>
+
 
   <h3>Day 02: 🗄️ Schema Development and Data Migration</h3>
   <p>On Day 2, the backend architecture was designed, focusing on robust data management.</p>
@@ -25,6 +29,10 @@
   </ul>
   <p><strong>Outcome:</strong> A reliable backend setup with clean and organized data.</p>
 
+  </br>
+</br>
+
+
   <h3>Day 03: 🔗 API Integration</h3>
   <p>The focus shifted to connecting the frontend with the backend through APIs.</p>
   <ul>
@@ -33,6 +41,10 @@
     <li>Conducted tests to ensure API endpoints worked seamlessly.</li>
   </ul>
   <p><strong>Outcome:</strong> Smooth data retrieval and interaction between the frontend and backend.</p>
+
+  </br>
+</br>
+
 
   <h3>Day 04: 🖼️ Dynamic Components Development</h3>
   <p>This day brought the frontend to life with interactive components.</p>
@@ -49,6 +61,10 @@
   </ul>
   <p><strong>Outcome:</strong> A visually appealing and interactive user interface for <strong>Furniro</strong>.</p>
 
+  </br>
+</br>
+
+
   <h3>Day 05: 🛠️ Testing and Bug Fixing</h3>
   <p>Day 5 emphasized quality assurance and optimization.</p>
   <ul>
@@ -57,6 +73,10 @@
     <li>Improved performance metrics, accessibility, and SEO.</li>
   </ul>
   <p><strong>Outcome:</strong> A bug-free, high-performance application ready for deployment.</p>
+
+  </br>
+</br>
+
 
   <h3>Day 06: 🚀 Deployment and Staging</h3>
   <p>The final day focused on deploying <strong>Furniro</strong> to a live environment.</p>
@@ -67,18 +87,33 @@
   </ul>
   <p><strong>Outcome:</strong> A live, customer-ready platform accessible globally.</p>
 
+  </br>
+</br>
+
+
   <h2>🙏 Acknowledgment</h2>
   <p class="acknowledgment">I extend my heartfelt thanks to <strong>Ameen Alam</strong>, whose guidance and support made this hackathon a memorable learning experience. His mentorship, insightful feedback, and encouragement were instrumental in successfully completing <strong>Furniro</strong>.</p>
+
+  </br>
+</br>
+
 
   <h2>📂 GitHub Repository</h2>
   <p>Explore the complete project :  
     <a href="https://github.com/KULSOOMadnan/UI-UX-hachaton" target="_blank">Marketplace Project Repository</a>
   </p>
+  </br>
+</br>
+
 
   <h2>🌐 Deployment Link</h2>
   <p>Experience <strong>Furniro</strong> live at:  
     <a href="https://ui-ux-hachaton.vercel.app/" target="_blank">Furniro Staging Environment</a>
   </p>
+
+  </br>
+</br>
+
 
   <h2>📁 Folder Structure</h2>
   <div class="folder-structure">
@@ -98,6 +133,10 @@ furniro-documents/
   |- README.md
     </pre>
   </div>
+
+  </br>
+</br>
+
 
   <p><strong>Prepared by:</strong> Kulsoom</p>
   <p><strong>Hackathon Completion Date:</strong> 22 January 2025</p>
