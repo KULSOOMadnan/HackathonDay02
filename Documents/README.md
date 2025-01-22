@@ -115,7 +115,7 @@
 
   <h2>📁 Folder Structure</h2>
   <pre>
-<!├── Documents/
+  ├── Documents/
   │   ├──📁 HackathonDay02/
   │   │   └── Day_02_Schema_Development.pdf
   │   ├── 📁HackathonDay03/
