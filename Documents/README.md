@@ -19,6 +19,8 @@
 
   <h2>📅 Day-Wise Summary</h2>
 
+  
+
   <h3>Day 01: 🎯 Goal Setting and Planning</h3>
   <p>The first day set the foundation for the project by defining clear objectives and strategies.</p>
   <ul>
@@ -27,6 +29,8 @@
     <li>Established a development timeline and assigned tasks.</li>
   </ul>
   <p><strong>Outcome:</strong> A well-defined roadmap ensuring structured development.</p>
+
+  
 
   <h3>Day 02: 🗄️ Schema Development and Data Migration</h3>
   <p>On Day 2, the backend architecture was designed, focusing on robust data management.</p>
@@ -37,6 +41,8 @@
   </ul>
   <p><strong>Outcome:</strong> A reliable backend setup with clean and organized data.</p>
 
+  
+
   <h3>Day 03: 🔗 API Integration</h3>
   <p>The focus shifted to connecting the frontend with the backend through APIs.</p>
   <ul>
@@ -45,6 +51,8 @@
     <li>Conducted tests to ensure API endpoints worked seamlessly.</li>
   </ul>
   <p><strong>Outcome:</strong> Smooth data retrieval and interaction between the frontend and backend.</p>
+
+  
 
   <h3>Day 04: 🖼️ Dynamic Components Development</h3>
   <p>This day brought the frontend to life with interactive components.</p>
@@ -61,6 +69,8 @@
   </ul>
   <p><strong>Outcome:</strong> A visually appealing and interactive user interface for <strong>Furniro</strong>.</p>
 
+  
+
   <h3>Day 05: 🛠️ Testing and Bug Fixing</h3>
   <p>Day 5 emphasized quality assurance and optimization.</p>
   <ul>
@@ -69,6 +79,8 @@
     <li>Improved performance metrics, accessibility, and SEO.</li>
   </ul>
   <p><strong>Outcome:</strong> A bug-free, high-performance application ready for deployment.</p>
+
+  
 
   <h3>Day 06: 🚀 Deployment and Staging</h3>
   <p>The final day focused on deploying <strong>Furniro</strong> to a live environment.</p>
@@ -79,11 +91,15 @@
   </ul>
   <p><strong>Outcome:</strong> A live, customer-ready platform accessible globally.</p>
 
+
+
   <h2>🙏 Acknowledgment</h2>
   <p>
     I extend my heartfelt thanks to <strong>Ameen Alam</strong>, whose guidance and support made this hackathon a memorable learning experience. 
     His mentorship, insightful feedback, and encouragement were instrumental in successfully completing <strong>Furniro</strong>.
   </p>
+
+
 
   <h2>📂 GitHub Repository</h2>
   <p>
@@ -91,11 +107,14 @@
     <a href="https://github.com/KULSOOMadnan/UI-UX-hachaton" target="_blank">Marketplace Project Repository</a>
   </p>
 
+
+
   <h2>🌐 Deployment Link</h2>
   <p>
     Experience <strong>Furniro</strong> live at:  
     <a href="https://ui-ux-hachaton.vercel.app/" target="_blank">Furniro Staging Environment</a>
   </p>
+
 
   <h2>Project Structure</h2>
   <p>This project is organized into separate folders for each day's work. Each folder contains a PDF file that documents the progress for that specific day.</p>
