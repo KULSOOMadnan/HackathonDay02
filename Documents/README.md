@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Furniro - Hackathon Documentation</title>
-</head>
 <body>
+  <i>
   <h1>🛋️ Furniro - Hackathon Documentation</h1>
 
   <h2>📖 Project Overview</h2>
@@ -121,61 +115,23 @@
 
   <h2>📁 Folder Structure</h2>
   <pre>
-<!-- MarketPlace_Hacathon/
-  |- Documents/
-      |- day_01_goal_setting.md
-      |- day_02_schema_development.md
-      |- day_03_api_integration.md
-      |- day_04_dynamic_components.md
-      |- day_05_testing_bug_fixing.md
-      |- day_06_deployment_staging.md
-  |- testing-Report
-     
-  |- performance.png
-     
-  |- README.md -->
+<!├── Documents/
+  │   ├──📁 HackathonDay02/
+  │   │   └── Day_02_Schema_Development.pdf
+  │   ├── 📁HackathonDay03/
+  │   │   └── Day_03_API_Integration.pdf
+  │   ├── 📁HackathonDay04/
+  │   │   └── Day_04_Dynamic_Components.pdf
+  │   ├── 📁HackathonDay05/
+  │   │   └── Day_05_Testing_Bug_Fixing.pdf
+  │   ├── 📁HackathonDay06/
+  │   │   └── Day_06_Deployment_Staging.pdf
+  ├── testing-Report.csv
+  ├── performance.png
+  ├── README.md
   </pre>
-   <ul>
-    <li>📁 <strong>Documents/</strong>
-      <ul>
-        <li>📁 <strong>HackathonDay01/</strong> 
-          <ul>
-            <li>📄 Day_01_Goal_Setting.pdf</li>
-          </ul>
-        </li>
-        <li>📁 <strong>HackathonDay02/</strong> 
-          <ul>
-            <li>📄 Day_02_Schema_Development.pdf</li>
-          </ul>
-        </li>
-        <li>📁 <strong>HackathonDay03/</strong> 
-          <ul>
-            <li>📄 Day_03_API_Integration.pdf</li>
-          </ul>
-        </li>
-        <li>📁 <strong>HackathonDay04/</strong> 
-          <ul>
-            <li>📄 Day_04_Dynamic_Components.pdf</li>
-          </ul>
-        </li>
-        <li>📁 <strong>HackathonDay05/</strong> 
-          <ul>
-            <li>📄 Day_05_Testing_Bug_Fixing.pdf</li>
-          </ul>
-        </li>
-        <li>📁 <strong>HackathonDay06/</strong> 
-          <ul>
-            <li>📄 Day_06_Deployment_Staging.pdf</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>📁 <strong>testing-Report.csv</strong></li>
-    <li>📈 <strong>performance.png</strong></li>
-    <li>📑 <strong>README.md</strong></li>
-  </ul>
-
-  <p><strong>Prepared by:</strong> Kulsoom</p>
+ 
+  <p><strong>Prepared by:</strong> Kulsoom Adnan</p>
   <p><strong>Hackathon Completion Date:</strong> 22 January 2025</p>
 </body>
-</html>
+</i>
