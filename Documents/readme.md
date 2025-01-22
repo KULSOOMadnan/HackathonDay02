@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Furniro - Hackathon Documentation</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    h1 {
-      text-align: center;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .acknowledgment {
-      font-style: italic;
-      color: #555;
-    }
-    .folder-structure {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 5px;
-      font-family: monospace;
-      overflow-x: auto;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+
   <h1>🛋️ Furniro - Hackathon Documentation</h1>
 
   <h2>📖 Project Overview</h2>
@@ -113,13 +70,13 @@
   <p class="acknowledgment">I extend my heartfelt thanks to <strong>Ameen Alam</strong>, whose guidance and support made this hackathon a memorable learning experience. His mentorship, insightful feedback, and encouragement were instrumental in successfully completing <strong>Furniro</strong>.</p>
 
   <h2>📂 GitHub Repository</h2>
-  <p>Explore the complete project and its documentation here:  
-    <a href="<insert_github_repository_link>" target="_blank">Marketplace Project Repository</a>
+  <p>Explore the complete project :  
+    <a href="https://github.com/KULSOOMadnan/UI-UX-hachaton" target="_blank">Marketplace Project Repository</a>
   </p>
 
   <h2>🌐 Deployment Link</h2>
   <p>Experience <strong>Furniro</strong> live at:  
-    <a href="<insert_vercel_deployment_link>" target="_blank">Furniro Staging Environment</a>
+    <a href="https://ui-ux-hachaton.vercel.app/" target="_blank">Furniro Staging Environment</a>
   </p>
 
   <h2>📁 Folder Structure</h2>
