@@ -1,10 +1,11 @@
+<h1>🛋️ Furniro - Hackathon Documentation</h1>
 
-  <h1>🛋️ Furniro - Hackathon Documentation</h1>
-
-  <h2>📖 Project Overview</h2>
+ <b><h2>📖 Project Overview</h2></b> 
   <p>Welcome to the documentation of <strong>"Furniro"</strong>, a versatile <em>sofa-centric e-commerce platform</em> developed during a 7-day hackathon! This project focuses on providing users with a seamless shopping experience for sofas and furniture products. Utilizing modern technologies like <strong>Next.js</strong>, <strong>Sanity CMS</strong>, and <strong>Vercel</strong>, the platform offers dynamic features and an intuitive user interface.</p>
 
-  <h2>📅 Day-Wise Summary</h2>
+  
+
+ <b><h2>📅 Day-Wise Summary</h2></br> 
 
   <h3>Day 01: 🎯 Goal Setting and Planning</h3>
   <p>The first day set the foundation for the project by defining clear objectives and strategies.</p>
