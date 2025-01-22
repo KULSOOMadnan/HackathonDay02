@@ -100,24 +100,6 @@
   <h2>Project Structure</h2>
   <p>This project is organized into separate folders for each day's work. Each folder contains a PDF file that documents the progress for that specific day.</p>
 
-  <h3>Documents</h3>
-  <ul>
-    <li>📁 <strong>HackathonDay01</strong>: <a href="#">Day_01_Goal_Setting.pdf</a> 📄</li>
-    <li>📁 <strong>HackathonDay02</strong>: <a href="#">Day_02_Schema_Development.pdf</a> 📄</li>
-    <li>📁 <strong>HackathonDay03</strong>: <a href="#">Day_03_API_Integration.pdf</a> 📄</li>
-    <li>📁 <strong>HackathonDay04</strong>: <a href="#">Day_04_Dynamic_Components.pdf</a> 📄</li>
-    <li>📁 <strong>HackathonDay05</strong>: <a href="#">Day_05_Testing_Bug_Fixing.pdf</a> 📄</li>
-    <li>📁 <strong>HackathonDay06</strong>: <a href="#">Day_06_Deployment_Staging.pdf</a> 📄</li>
-  </ul>
-
-  <h3>Other Files</h3>
-  <ul>
-    <li>📊 <strong>testing-Report</strong></li>
-    <li>📈 <strong>performance.png</strong></li>
-  </ul>
-
-  <h3>README.md 📑</h3>
-
   <h2>📁 Folder Structure</h2>
   <pre>
 <!-- MarketPlace_Hacathon/
@@ -134,6 +116,45 @@
      
   |- README.md -->
   </pre>
+   <ul>
+    <li>📁 <strong>Documents/</strong>
+      <ul>
+        <li>📁 <strong>HackathonDay01/</strong> 
+          <ul>
+            <li>📄 Day_01_Goal_Setting.pdf</li>
+          </ul>
+        </li>
+        <li>📁 <strong>HackathonDay02/</strong> 
+          <ul>
+            <li>📄 Day_02_Schema_Development.pdf</li>
+          </ul>
+        </li>
+        <li>📁 <strong>HackathonDay03/</strong> 
+          <ul>
+            <li>📄 Day_03_API_Integration.pdf</li>
+          </ul>
+        </li>
+        <li>📁 <strong>HackathonDay04/</strong> 
+          <ul>
+            <li>📄 Day_04_Dynamic_Components.pdf</li>
+          </ul>
+        </li>
+        <li>📁 <strong>HackathonDay05/</strong> 
+          <ul>
+            <li>📄 Day_05_Testing_Bug_Fixing.pdf</li>
+          </ul>
+        </li>
+        <li>📁 <strong>HackathonDay06/</strong> 
+          <ul>
+            <li>📄 Day_06_Deployment_Staging.pdf</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>📁 <strong>testing-Report.csv</strong></li>
+    <li>📈 <strong>performance.png</strong></li>
+    <li>📑 <strong>README.md</strong></li>
+  </ul>
 
   <p><strong>Prepared by:</strong> Kulsoom</p>
   <p><strong>Hackathon Completion Date:</strong> 22 January 2025</p>
