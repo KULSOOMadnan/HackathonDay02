@@ -140,5 +140,4 @@ furniro-documents/
 
   <p><strong>Prepared by:</strong> Kulsoom</p>
   <p><strong>Hackathon Completion Date:</strong> 22 January 2025</p>
-</body>
-</html>
+
